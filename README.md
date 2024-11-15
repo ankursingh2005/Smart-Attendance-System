@@ -28,12 +28,7 @@ bash
 Copy code
 pip install opencv-python numpy pyzbar
 
-How to Use ▶️
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/smart-attendance.git
-cd smart-attendance
+
 Run the script:
 bash
 Copy code
